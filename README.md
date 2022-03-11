@@ -1,2 +1,0 @@
-# blooog
-blog repo
